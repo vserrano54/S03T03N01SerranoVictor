@@ -1,0 +1,10 @@
+
+        
+#fondo {
+    width: 200px;
+    height: 200px;
+    background-image: url("img/fondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
